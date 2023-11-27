@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nadya
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on computer programming projects.
 - 📫 How to reach me ...
 
 <!---
